@@ -1,9 +1,8 @@
-# Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
+# Aplicativo clone moderno do YouTube em React JS com Material UI 5 com consumo de API
 
-![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
+![alt text](https://github.com/waltodd/ecommerce_hakuna_kelele/blob/main/public/assets/image.png?raw=true)
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+💻 Ver demo - https://jsmastery.pro/youtube
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+
+⭐RapidAPI YouTube v3 - https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2JERHJ1bzNmb3RHU2JucHVza3M5Q3VfdWo4Z3xBQ3Jtc0tuTzZ0LXBlMzY0QXBHTkZSR3lTSWo0SFFRQjBWVUs4M3k5VDYxWFFISmRPNDYzVWlPVjk4Q0dkSHMtcXUtTFNUemFoN2szMm9tSFRhdWxJOUFsekw4Wmx6YXNXLThhVEszYkdLcE9iMUtOM29iV1Vscw&q=https%3A%2F%2Frapidapi.com%2Fytdlfree%2Fapi%2Fyoutube-v31%3Futm_source%3Dyoutube.com%252FJavaScriptMastery%26utm_medium%3Dreferral%26utm_campaign%3DDevRel&v=FHTbsZEJspU 
